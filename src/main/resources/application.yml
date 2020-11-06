@@ -1,0 +1,5 @@
+spring:
+  message: Hello from application
+server:
+  port: 9091
+
